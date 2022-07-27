@@ -1,0 +1,1 @@
+Controle de pedido  com geração deo conflito no Paralelo
