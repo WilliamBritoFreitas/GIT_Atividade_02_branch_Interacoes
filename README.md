@@ -14,3 +14,4 @@ com:
 02_Cadastro de Cliente
 03_cadastro de Produto (com alteração)
 
+09_Controle de Pagamento (faze de implementação e por tanto está ignorado)
