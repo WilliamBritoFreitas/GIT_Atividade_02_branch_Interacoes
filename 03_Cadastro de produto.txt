@@ -1,1 +1,4 @@
 Aqui se faz o cadastro de produto
+
+Produto: Oculos
+Preço: $250,00
